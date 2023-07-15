@@ -4,15 +4,16 @@ body {
 }
 
 #demo .minibox {
-  border: 1px solid #4867ce;
+  border: 1px solid #d7a2cf;
   margin: 10px;
   padding: 10px;
   height: 150px;
   width: 150px;
   color: white;
-  background-color: #4867ce;
+  background-color: #d7a2cf;
 }
 #demo .pst {
   position: absolute;
-  left: 320px;
+  left: 500px;
+  bottom: 110px;
 }/*# sourceMappingURL=style.css.map */
